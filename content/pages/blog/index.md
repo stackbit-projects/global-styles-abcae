@@ -1,5 +1,5 @@
 ---
-title: Blog post page
+title: Blog home page
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
